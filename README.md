@@ -1,1 +1,0 @@
-FESTIVE G is a small Python web app for celebrating Indian festivals. Visitors browse festival pages (Diwali, Holi, Navratri, and more), read about each one, then send a festive greeting to someone via email. An admin panel lets you edit festival content, view submitted greetings, and manage login access securely.
