@@ -1,0 +1,27 @@
+# FESTIVE G - Python Dependencies
+
+# No external dependencies required!
+# FESTIVE G uses only Python Standard Library (Python 3.8+)
+#
+# Standard library modules used:
+# - csv (CSV file handling)
+# - json (JSON file handling)
+# - http.server (HTTP server)
+# - smtplib (Email sending)
+# - email (Email message construction)
+# - re (Regular expressions)
+# - secrets (Secure tokens)
+# - datetime (Date/time handling)
+# - pathlib (File path handling)
+# - urllib.parse (URL parsing)
+# - mimetypes (MIME type detection)
+# - html (HTML escaping)
+# - os (Environment variables)
+
+# Optional: for development and testing
+# Uncomment and run: pip install -r requirements.txt
+# pytest>=7.0                 # Testing framework
+# black>=22.0                 # Code formatting
+# pylint>=2.0                 # Code linting
+# mypy>=0.9                   # Type checking
+# sphinx>=4.0                 # Documentation generation
